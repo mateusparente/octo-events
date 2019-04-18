@@ -86,12 +86,6 @@
             <version>0.1.0</version>
             <scope>test</scope>
         </dependency>
-        <!-- <dependency>
-		  <groupId>org.koin</groupId>
-		  <artifactId>koin-test</artifactId>
-		  <version>${koin.version}</version>
-		  <scope>test</scope>
-		</dependency> -->
         <dependency>
 		    <groupId>de.flapdoodle.embed</groupId>
 		    <artifactId>de.flapdoodle.embed.mongo</artifactId>
