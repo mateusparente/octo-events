@@ -24,7 +24,7 @@
         <junit.version>4.12</junit.version>
         <java.version>1.8</java.version>
         <javalin.version>2.8.0</javalin.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.9.8</jackson.version>
         <slf4j.version>1.7.26</slf4j.version>
         <koin.version>2.0.0-rc-3</koin.version>
         <javalin.version>2.8.0</javalin.version>
